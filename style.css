@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+.pagina{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background: rgb(230, 206, 182);
+    position: relative;
+    margin: auto;
+    transition: 2s;
+    justify-content: center;
+    align-items: center;
+}
+
+.dark{
+    background: rgb(69, 68, 67);
+}
+
